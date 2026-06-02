@@ -1,0 +1,11 @@
+merchant_id,merchant_name,category,country,risk_level,is_blacklisted
+201,Amazon India,retail,India,low,0
+202,Flipkart,retail,India,low,0
+203,Steam Gaming,gaming,USA,medium,0
+204,CryptoExchange Pro,crypto,Cayman,high,0
+205,MakeMyTrip,travel,India,low,0
+206,Apple Store,electronics,USA,low,0
+207,Unknown Merchant X,crypto,Unknown,high,1
+208,Reliance Digital,electronics,India,low,0
+209,Booking.com,travel,Netherlands,low,0
+210,FX Transfer Ltd,remittance,UAE,high,0

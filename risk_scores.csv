@@ -1,0 +1,20 @@
+score_id,customer_id,score_month,risk_score,score_reason
+1,1001,Jan-2024,85,Midnight crypto transfers amount spike blacklisted merchant
+2,1001,Feb-2024,85,Previous month fraud confirmed
+3,1002,Jan-2024,15,Normal premium spend pattern
+4,1002,Feb-2024,12,Consistent behaviour
+5,1003,Jan-2024,90,Structuring pattern detected 3 transactions just below 50K threshold
+6,1003,Feb-2024,75,Under investigation
+7,1004,Jan-2024,95,KYC pending late night crypto blacklisted merchant
+8,1005,Jan-2024,60,PEP customer EDD required large transfers
+9,1005,Feb-2024,58,PEP monitoring ongoing
+10,1006,Jan-2024,10,Normal retail behaviour
+11,1007,Jan-2024,12,Verified premium UK customer
+12,1008,Jan-2024,98,KYC failed multiple midnight fraud attempts
+13,1009,Jan-2024,35,Regular business remittance pattern consistent
+14,1010,Jan-2024,72,Overnight crypto spike on otherwise normal account
+15,1011,Jan-2024,78,PEP large wire transfers SAR filed
+16,1012,Jan-2024,8,Low value normal retail
+17,1013,Jan-2024,80,Escalating gaming spend followed by crypto transfer
+18,1014,Jan-2024,100,Sanctioned entity all transactions blocked
+19,1015,Jan-2024,10,Normal premium customer
